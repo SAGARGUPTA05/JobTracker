@@ -91,11 +91,8 @@ DELETE	/api/jobs/:id	Delete an application
 💡 Future Improvements
 Authentication & user profiles
 
-Resume/CV upload
 
-Email reminders for follow-ups
-
-Dashboard with charts
+sggupta8742@gmail.com f
 
 👨‍💻 Author
 Sagar Gupta
