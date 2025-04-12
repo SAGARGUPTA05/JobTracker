@@ -78,7 +78,8 @@ Copy
 Edit
 npm run dev
 📸 Screenshots
-[image](https://github.com/user-attachments/assets/5d444008-9a7b-4e0f-bd74-04538f087fc6)
+![image](https://github.com/user-attachments/assets/3ffdfd51-af52-426f-bdbe-0711d166995a)
+
 
 
 🔗 API Endpoints
