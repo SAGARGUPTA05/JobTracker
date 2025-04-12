@@ -92,7 +92,7 @@ DELETE	/api/jobs/:id	Delete an application
 Authentication & user profiles
 
 
-sggupta8742@gmail.com f
+sggupta8742@gmail.com 
 
 👨‍💻 Author
 Sagar Gupta
@@ -100,13 +100,6 @@ Sagar Gupta
 📜 License
 This project is open source and free to use under the MIT License.
 
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want me to add instructions for deployment (e.g., on Vercel + Render) or add a logo or badges!
 
 
 
